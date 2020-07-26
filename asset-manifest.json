@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tutorial-27/static/css/main.75df9f48.chunk.css",
+    "main.js": "/tutorial-27/static/js/main.c9288bea.chunk.js",
+    "main.js.map": "/tutorial-27/static/js/main.c9288bea.chunk.js.map",
+    "runtime-main.js": "/tutorial-27/static/js/runtime-main.4edc1abd.js",
+    "runtime-main.js.map": "/tutorial-27/static/js/runtime-main.4edc1abd.js.map",
+    "static/js/2.369386f3.chunk.js": "/tutorial-27/static/js/2.369386f3.chunk.js",
+    "static/js/2.369386f3.chunk.js.map": "/tutorial-27/static/js/2.369386f3.chunk.js.map",
+    "index.html": "/tutorial-27/index.html",
+    "precache-manifest.0eed4ecc23d2d6c4f1a370d49d5e07c6.js": "/tutorial-27/precache-manifest.0eed4ecc23d2d6c4f1a370d49d5e07c6.js",
+    "service-worker.js": "/tutorial-27/service-worker.js",
+    "static/css/main.75df9f48.chunk.css.map": "/tutorial-27/static/css/main.75df9f48.chunk.css.map",
+    "static/js/2.369386f3.chunk.js.LICENSE.txt": "/tutorial-27/static/js/2.369386f3.chunk.js.LICENSE.txt",
+    "static/media/mintbean.png": "/tutorial-27/static/media/mintbean.cf18b629.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4edc1abd.js",
+    "static/js/2.369386f3.chunk.js",
+    "static/css/main.75df9f48.chunk.css",
+    "static/js/main.c9288bea.chunk.js"
+  ]
+}
