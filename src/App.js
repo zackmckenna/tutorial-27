@@ -11,6 +11,7 @@ const App = () => {
     <>
     <MintNav />
     <div className="App">
+      Camera Browser API Tutorial
       <CameraFeed />
     </div>
     </>

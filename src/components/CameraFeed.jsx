@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from 'react';
 
-const CameraFeed = ({ sendFile }) => {
+const CameraFeed = () => {
   const videoPlayer = useRef(null)
   const canvas = useRef(null)
 
@@ -29,18 +29,19 @@ const CameraFeed = ({ sendFile }) => {
     }
 
    const takePhoto = (e) => {
-              // const { sendFile } = this.props;
-              console.log(canvas)
-              // console.log(c anvas.ref.current.getContext())
-              const context = canvas.current.getContext('2d')
-              // const context = e.currentTarget.getContext('2d');
-              console.log(context)
-              console.log(videoPlayer)
-              context.drawImage(videoPlayer.current, 0,0, 680, 360)
+     setTimeout(() => {
+       console.log(canvas)
+       // console.log(canvas.ref.current.getContext())
+       const context = canvas.current.getContext('2d')
+       // const context = e.currentTarget.getContext('2d');
+       console.log(context)
+       console.log(videoPlayer)
+       context.drawImage(videoPlayer.current, 0,0, 680, 360)
+     }, 5000)
 
-              // context.drawImage(videoPlayer, 0, 0, 680, 360);
-              // canvas.toBlob(sendFile);
-          }
+    // context.drawImage(videoPlayer, 0, 0, 680, 360);
+    // canvas.toBlob(sendFile);
+}
 
 
   return (

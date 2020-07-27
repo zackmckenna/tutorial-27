@@ -1,3 +1,9 @@
+Mintbean CareerHack 7-27 Tutorial
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
