@@ -1,18 +1,25 @@
-Mintbean CareerHack 7-27 Tutorial
-
 ## Mintbean 7-27 CareerHack Tutorial
 
-This tutorial shows an implementation of the browser camera API in both React and vanilla HTML.
+This tutorial shows an implementation of the browser camera API in both React and vanilla HTML. Just open tutorial.html in your browser, or follow the Available Scripts below to run the React App locally.
 
-Resources:
+Some Resources:
 
 [Google Dev Web Fundamentals: Capturing an Image From the User](https://developers.google.com/web/fundamentals/media/capturing-images)
+
+[David Walsh: Controlling the Camera in HTML5](https://davidwalsh.name/browser-camera)
 
 [Navigator.mediaDevices](https://developer.mozilla.org/en-US/docs/Web/API/Navigator/mediaDevices)
 
 [MediaDevices.getUserMedia()](https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices/getUserMedia)
 
 [Canvas Filters](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/filter)
+
+
+
+
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
