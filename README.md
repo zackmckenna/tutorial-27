@@ -1,6 +1,6 @@
 ## Mintbean 7-27 CareerHack Tutorial
 
-This tutorial shows an implementation of the browser camera API in both React and vanilla HTML. Just open tutorial.html in your browser, or follow the Available Scripts below to run the React App locally.
+This tutorial shows an implementation of the browser camera API in both React and vanilla HTML. Just open tutorial.html in your browser or, in the project's directory, run `yarn install` then `yarn start` to run the React App locally.
 
 Some Resources:
 
