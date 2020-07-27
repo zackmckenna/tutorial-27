@@ -10,7 +10,7 @@ const App = () => {
     <>
       <MintNav />
       <div className="App">
-        Camera Browser API Tutorial
+        <h1 className='mt-2 mb-2'>Camera Browser API Tutorial</h1>
         <CameraFeed />
       </div>
     </>
