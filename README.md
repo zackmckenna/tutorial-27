@@ -12,6 +12,8 @@ Some Resources:
 
 [MediaDevices.getUserMedia()](https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices/getUserMedia)
 
+[CanvasRenderingContext2D](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D)
+
 [Canvas Filters](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/filter)
 
 
