@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f4a3799637efab9fbefc13810a5476ae",
+    "revision": "e0066fb28b3e2eca948aecf814abafbd",
     "url": "/tutorial-27/index.html"
   },
   {
-    "revision": "cccc9cceb56c55c6e46a",
+    "revision": "28d0603856fa628a11a3",
     "url": "/tutorial-27/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "c05ed9bd073b1618f3dd",
+    "revision": "d1b00ec80fff4bef0466",
     "url": "/tutorial-27/static/css/main.a0b33bfa.chunk.css"
   },
   {
-    "revision": "cccc9cceb56c55c6e46a",
-    "url": "/tutorial-27/static/js/2.70539848.chunk.js"
+    "revision": "28d0603856fa628a11a3",
+    "url": "/tutorial-27/static/js/2.c69b6b95.chunk.js"
   },
   {
     "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
-    "url": "/tutorial-27/static/js/2.70539848.chunk.js.LICENSE.txt"
+    "url": "/tutorial-27/static/js/2.c69b6b95.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c05ed9bd073b1618f3dd",
-    "url": "/tutorial-27/static/js/main.77ece15f.chunk.js"
+    "revision": "d1b00ec80fff4bef0466",
+    "url": "/tutorial-27/static/js/main.64693d31.chunk.js"
   },
   {
     "revision": "39080c9e7da8c82c8bd5",
